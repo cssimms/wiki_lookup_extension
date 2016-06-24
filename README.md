@@ -5,5 +5,7 @@ To encourage all your dives into the Wikipedia Rabbit Hole. Happy digging!
 
 
 #### Installation
-[Click Here][https://chrome.google.com/webstore/detail/wikipedia-lookup/jhjlblkmokplgkinfffkdeddmmmddkni]
+[Click Here][store]
 Add to Chrome!
+
+[store]: https://chrome.google.com/webstore/detail/wikipedia-lookup/jhjlblkmokplgkinfffkdeddmmmddkni
